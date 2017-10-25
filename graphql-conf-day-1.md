@@ -35,4 +35,9 @@
 # Lightning talks
 - @xav_cz
 - @bdougie
-- @danimman
+- @danimman ( GraphQL Devtools )
+
+# Graphql microservices ( @_schickling )
+- graphql-cli ( https://github.com/graphcool/graphql-cli )
+- Graphql backends
+  - 
