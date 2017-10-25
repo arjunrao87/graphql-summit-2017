@@ -39,5 +39,8 @@
 
 # Graphql microservices ( @_schickling )
 - graphql-cli ( https://github.com/graphcool/graphql-cli )
+- API Gateway ( GraphQL )
 - Graphql backends
-  - 
+  - Storage engine - SQL
+  - Gets rid of pagination, filtering
+  - GraphQL database
