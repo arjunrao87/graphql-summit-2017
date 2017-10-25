@@ -1,0 +1,5 @@
+- Caching
+- Streaming big amounts of data
+- CDN based system
+- JSON vs streaming
+- Generic schema vs multiple specific schemas

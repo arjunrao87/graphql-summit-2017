@@ -1,5 +1,6 @@
 # IBM ( @jlengstorf )
 
+- https://code.lengstorf.com/presentations/graphql-microservices/slides/#/
 - Middleware ( gramps - https://github.com/gramps-graphql/gramps-express )
 - Apollo server
 - Microservice architecture
@@ -32,7 +33,7 @@
 - Evans ( Apollo )
   - Optimistic UI ( Apollo Client 2.0 )
 
-# Lightning talks
+# Lightning talks 1
 - @xav_cz
 - @bdougie
 - @danimman ( GraphQL Devtools )
@@ -44,3 +45,13 @@
   - Storage engine - SQL
   - Gets rid of pagination, filtering
   - GraphQL database
+
+# Subscriptions (@rbzhu)
+- Streaming with websockets
+- Live queries vs subscriptions
+
+# Lightning talks 2
+-  @syrusakbary
+
+# Wordpress ( @wpgraphql )
+ - Constant overfetching/underfetching with REST
