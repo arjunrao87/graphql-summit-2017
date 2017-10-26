@@ -73,4 +73,8 @@ graphql/required-fields
 
 If youre making breaking schema changes, run it against product code ( in eslint ) to figure out what broke
 
-Use Apollo code gen to generate flow/ts code 
+Use Apollo code gen to generate flow/ts code
+
+# Twitter
+
+Instead of tracking % of requests served ( 99.99% ) they track number of exceptions per query and based on that see how reliable the system is

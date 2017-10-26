@@ -18,3 +18,9 @@
 - eslint-plugin-graphql - https://github.com/apollographql/eslint-plugin-graphql
 - prettier
 - Flow - https://flow.org/
+- RethinkDB - https://www.rethinkdb.com/
+- Streaming Large datasets
+  - https://www.npmjs.com/package/express-stream
+  - Streaming HTTP connections 
+  - Using @stream directive with the graphql schema
+  - Using Thrift/RPC
