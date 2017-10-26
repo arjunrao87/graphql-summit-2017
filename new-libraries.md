@@ -10,3 +10,4 @@
 - http://dev.apollodata.com/tools/graphql-tools/schema-stitching.html
 
 - https://dev-blog.apollodata.com/introducing-apollo-engine-insights-error-reporting-and-caching-for-graphql-6a55147f63fc
+- https://help.shopify.com/api/storefront-api/graphql-explorer/graphiql
