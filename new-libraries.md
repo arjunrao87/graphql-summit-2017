@@ -11,3 +11,6 @@
 
 - https://dev-blog.apollodata.com/introducing-apollo-engine-insights-error-reporting-and-caching-for-graphql-6a55147f63fc
 - https://help.shopify.com/api/storefront-api/graphql-explorer/graphiql
+- Cache control in Node - https://github.com/apollographql/apollo-cache-control-js
+- Tracing - https://github.com/apollographql/apollo-tracing
+- SQL Query builder for JS - http://knexjs.org/

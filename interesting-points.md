@@ -11,4 +11,5 @@
 - 1MB github json message payload limit
 - Static analysis of query to find out what the cost of the query is because rate limiting is much harder in graphql than in rest . Done by github ( done at the onset of the query). To give back an estimation of the work that will be needed to be done on the server side ( request budget )
 - Really gotta use data loader to retrieve responses otherwise things go awry v quickly
-- Create middleware like gramps 
+- Create middleware like gramps
+- Pagination syntax ( first = Int = 10 )
