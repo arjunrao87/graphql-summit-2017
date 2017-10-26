@@ -16,3 +16,35 @@
 ## Twitch ( @tonyghita )
 
 - Cursor pagination is implicitly understood by graphql
+- Authorization pushed to the services not the gateway
+- Dan Schafer talk on Authorization
+- invest time in building out a styleguide for the schema. Add linters for this so you dont have to humanly monitor each step of the schema development . Just run the linter
+- Generate code for resolvers/schema
+- GRPC, Protobufs with codegen to generate end to end code generation from an API standpoint
+
+## Formidable ( @ebaerbaerbaer )
+
+- Persisted/static queries
+  - Queries are stored where both client and server can access
+    - Network caching
+    - Order of magnitude faster
+    - Both talk via an "id" of the query and not the actual query itself
+- Operation steps in query execution     
+  - GetOperation    
+  - CooerceVariableValues
+  - ExecutionQuery
+    - ExecutionSelctionSet
+      - ExecuteField
+        - CooerceArgumentValues
+        - ResolveFieldValue
+        - CompleteValue
+- Javascript being single threaded at its core doesnt let parallelizing the parsing and validation of queries parallelized
+
+## Apollo
+
+- Normalized Caching
+
+## Khan Academy
+
+- Track 500 errors on a dashboard
+- Make errors actionable by giving trace and lines of code where error happened etc 
