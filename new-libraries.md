@@ -14,3 +14,7 @@
 - Tracing - https://github.com/apollographql/apollo-tracing
 - SQL Query builder for JS - http://knexjs.org/
 - Testing graphql - https://github.com/mfix22/gest
+- Authorization/authentication - https://github.com/chenkie/graphql-auth
+- eslint-plugin-graphql - https://github.com/apollographql/eslint-plugin-graphql
+- prettier
+- Flow - https://flow.org/

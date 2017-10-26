@@ -47,4 +47,30 @@
 ## Khan Academy
 
 - Track 500 errors on a dashboard
-- Make errors actionable by giving trace and lines of code where error happened etc 
+- Make errors actionable by giving trace and lines of code where error happened etc
+
+# Auth0 -( @ryanchenkie )
+
+- Auth using
+  - Wrapping resolvers
+  - Custom directives
+    - Used for authorizing specific fields
+- Using JWT ( jwt.io) for authentication
+- FInd the bitly link for the slides for examples of directives and wrapped resolvers
+
+# KLM
+- GraphQL IDE plugin ( VSCode and webstorm. possibly atom )
+- Use UBC ( Unique Business component ) as individual microservices
+- They dont front the services with a middle ware to handle incoming requests that would treat all the services as one big schema.
+- Using this.apollo.watchQuery and this.apollo.mutate
+
+# Lightning talks
+
+## Dev tools for Dev Ex
+
+graphql/named-operations
+graphql/required-fields
+
+If youre making breaking schema changes, run it against product code ( in eslint ) to figure out what broke
+
+Use Apollo code gen to generate flow/ts code 
