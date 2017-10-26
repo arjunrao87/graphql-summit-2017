@@ -55,3 +55,5 @@
 
 # Wordpress ( @wpgraphql )
  - Constant overfetching/underfetching with REST
+
+# Scott Taylor ( NYT )
